@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm a backend developer with hands-on experience from a 9-month internship at OGGANGS, where I built and shipped real-world features.<br><br>I graduated from Swami Vivekananda University and I'm currently deep into building RAG-based projects — exploring how to make AI applications more accurate and context-aware with modern retrieval techniques.<br><br>Passionate about scalable systems, clean code, and turning ideas into reliable backends. Let's connect if you're working on interesting projects! 🚀
+Hi there! 👋 I'm a backend developer with hands-on experience from a 9 month internship at OGGANGS, where I built and shipped real-world features.<br><br>I graduated from Swami Vivekananda University and I'm currently deep into building RAG and Agent based projects, exploring how to make AI applications more accurate and context aware with modern retrieval techniques.<br><br>Passionate about scalable systems, clean code, and turning ideas into reliable backends. Let's connect if you're working on interesting projects! 🚀
 
 
 ## 🌐 Socials:
