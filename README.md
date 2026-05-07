@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm a backend developer with hands-on experience from a 9 month internship at OGGANGS Pvt. Ltd., where I built and shipped real world features.<br><br>I graduated from Swami Vivekananda University and I'm currently deep into building RAG and Agent based projects, exploring how to make AI applications more accurate and context aware with modern retrieval techniques.<br><br>Passionate about scalable systems, clean code, and turning ideas into reliable backends. Let's connect if you're working on interesting projects! 🚀
-
+Hi there! 👋 I'm a backend developer who recently wrapped up a 9 month internship at OGGANGS Pvt. Ltd., where I got hands-on experience building and shipping real world features.<br><br>I'm a Swami Vivekananda University grad, and lately i've been deep in the weeds of building RAG and Agent-based projects. I spend a lot of my time experimenting with modern retrieval techniques to figure out how to make AI apps smarter, more accurate, and highly context aware.<br><br>I care a lot about designing scalable systems, writing clean code, and turning big ideas into rock-solid backends. If you're building something interesting, let's connect! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shovan-sahu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shovansahu000@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/919832432155)
