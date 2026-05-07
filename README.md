@@ -48,9 +48,11 @@ Hi there! 👋 I'm a backend developer who recently wrapped up a 9 month interns
 - Semantic Search
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SHOVAN-SAHU&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SHOVAN-SAHU&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHOVAN-SAHU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SHOVAN-SAHU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SHOVAN-SAHU&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHOVAN-SAHU&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SHOVAN-SAHU&icon=0&color=0)](https://visitcount.itsvg.in)
